@@ -1,4 +1,4 @@
-# 💼 Midnight Developers Palindrome Checker
+# ↔️ Midnight Developers Palindrome Checker
 
 ## 📖 Overview
 Created as part of my FreeCodeCamp Responsive Web Design Certification. This project is a fully responsive palindrome checker built with HTML, CSS, and JavaScript.
