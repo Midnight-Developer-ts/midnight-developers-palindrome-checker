@@ -41,7 +41,7 @@ The application features a clear header and subtitle, an interactive input and v
 6. Click the developer name to view additional info and links on Linktree
 
 ## 📂 Project Structure
-portfolio-project/ | `root folder`
+midnight-developers-palindrome-checker/ | `root folder`
 
 │── index.html | `main webpage`
 
@@ -49,7 +49,7 @@ portfolio-project/ | `root folder`
 
 │   └── styles.css | `styling`
 
-│── images/ | `images folder`
+│── img/ | `images folder`
 
 │   └── website-favicon.png | `favicon`
 
