@@ -1,9 +1,9 @@
-# ↔️ Midnight Developers Palindrome Checker
+# ↔️ Vynxcode's Palindrome Checker
 
 ## 📖 Overview
 Created as part of my FreeCodeCamp Responsive Web Design Certification. This project is a fully responsive palindrome checker built with HTML, CSS, and JavaScript.
 
-Designed under my developer alias Midnight Developer, this project demonstrates functional logic with a visually distinctive, accessible layout. Users can enter a word or phrase to instantly check whether it qualifies as a palindrome, with results displayed dynamically on the page.
+Designed under my developer alias Vynxcode, this project demonstrates functional logic with a visually distinctive, accessible layout. Users can enter a word or phrase to instantly check whether it qualifies as a palindrome, with results displayed dynamically on the page.
 
 The application features a clear header and subtitle, an interactive input and validation system, an educational explanation of palindromes, and a styled footer. All wrapped in a clean, responsive design that adapts smoothly across screen sizes.
 
@@ -31,17 +31,17 @@ The application features a clear header and subtitle, an interactive input and v
 - Project organization and clean code practices
 
 ## 🚀 How to Use
-[`View Live Project`](https://midnight-developer-ts.github.io/midnight-developers-palindrome-checker/)
+[`View Live Project`](https://vynxcode-ts.github.io/vynxcodes-palindrome-checker/)
 
 1. Enter a word or phrase into the input field
 2. Click or press **Check** 
 3. View the palindrome result displayed below
 4. Resize the browser window to see responsive layout adjustments.
-5. Hover over the **Midnight Developer** name in the footer
+5. Hover over the **Vynxcode** name in the footer
 6. Click the developer name to view additional info and links on Linktree
 
 ## 📂 Project Structure
-midnight-developers-palindrome-checker/ | `root folder`
+vynxcodes-palindrome-checker/ | `root folder`
 
 │── index.html | `main webpage`
 
@@ -51,7 +51,7 @@ midnight-developers-palindrome-checker/ | `root folder`
 
 │── img/ | `images folder`
 
-│   └── website-favicon.png | `favicon`
+│   └── website-favicon.svg | `favicon`
 
 │   └── website-preview.png | `preview image`
 
@@ -72,13 +72,13 @@ This project fully meets all FreeCodeCamp Responsive Web Design
 Technical Documentation Page user stories and requirements.
 
 ## 📸 Preview
-![Midnight Developer's Palindrome Checker Project Page Screenshot](./img/website-preview.png)
+![Vynxcode's Palindrome Checker Project Page Screenshot](./img/website-preview.png)
 
-[`View Live Project`](https://midnight-developer-ts.github.io/midnight-developers-palindrome-checker/)
+[`View Live Project`](https://vynxcode-ts.github.io/vynxcodes-palindrome-checker/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/midnight-developers-palindrome-checker/blob/main/LICENSE) file for full terms.
+This project is licensed under a Vynxcode Proprietary License. 
+See the [LICENSE](https://github.com/vynxcode-ts/vynxcodes-palindrome-checker/blob/main/LICENSE) file for full terms.
